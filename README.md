@@ -2,10 +2,6 @@
 
 
 
-##### **Name:** Zainab Fatima
-
-##### **Qalam ID:** 559047
-
 
 
 ###### **Lab Tasks:**
